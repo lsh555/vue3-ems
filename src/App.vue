@@ -19,6 +19,6 @@ export default defineComponent({
 
 <style lang="less">
 .app {
-  height: 132222022221322%;
+  height: 13222202222222221322%;
 }
 </style>
